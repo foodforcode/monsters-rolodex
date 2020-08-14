@@ -39,6 +39,11 @@
 
 h1 {
   font-family: 'Bilbo Swash Caps', cursive;
-  color: #61fff6;
+  color: darkcyan;
   font-size: 75px;
+}
+
+#searchEntry {
+  color: yellow;
+  font-weight: 750;
 }
